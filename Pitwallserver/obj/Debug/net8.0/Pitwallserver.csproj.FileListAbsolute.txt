@@ -65,3 +65,4 @@ D:\Repositories\SignalRTest\Pitwallserver\obj\Debug\net8.0\staticwebassets.upToD
 D:\Repositories\SignalRTest\Pitwallserver\obj\Debug\net8.0\Pitwalls.57D62B5D.Up2Date
 D:\Repositories\SignalRTest\Pitwallserver\obj\Debug\net8.0\Pitwallserver.genruntimeconfig.cache
 D:\Repositories\SignalRTest\Pitwallserver\obj\Debug\net8.0\ref\Pitwallserver.dll
+D:\Repositories\SignalRTest\Pitwallserver\obj\Debug\net8.0\Pitwallserver.sourcelink.json

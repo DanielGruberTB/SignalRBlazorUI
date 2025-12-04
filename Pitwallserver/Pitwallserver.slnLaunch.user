@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "ServerAndClient",
+    "Projects": [
+      {
+        "Path": "Pitwallserver.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\SignalRClient\\SignalRClient.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

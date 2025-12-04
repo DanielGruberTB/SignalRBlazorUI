@@ -1,0 +1,11 @@
+﻿################################################################################
+# Diese .gitignore-Datei wurde von Microsoft(R) Visual Studio automatisch erstellt.
+################################################################################
+
+*.cs
+*.cache
+*.json
+*.vs/
+*.dll
+*.txt
+/SignalRClient/obj
