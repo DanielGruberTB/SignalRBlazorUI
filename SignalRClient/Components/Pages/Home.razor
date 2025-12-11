@@ -1,5 +1,6 @@
 ﻿@page "/"
 @using Microsoft.AspNetCore.SignalR.Client
+@rendermode InteractiveServer
 
 <PageTitle>Home</PageTitle>
 
@@ -17,7 +18,7 @@ Welcome to your new app.
 
 
 @code {
-    private HubConnection hubConnection;
+    private HubConnection? hubConnection;
     private List<string> messages = new List<string>();
 
     protected override async Task OnInitializedAsync()
