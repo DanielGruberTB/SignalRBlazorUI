@@ -3,6 +3,8 @@ using SignalRClient.Components;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
+// AddInteractiveServerComponents is required for components with @rendermode InteractiveServer
+// to enable real-time UI updates (e.g., when receiving SignalR messages)
 builder.Services.AddRazorComponents()
     .AddInteractiveServerComponents();
 
